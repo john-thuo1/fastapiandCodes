@@ -1,0 +1,11 @@
+
+    // suppress the warning message that Git displays 
+    // when you exceed the default limit of 1000 patterns in your .gitignore file.
+  
+{  "git.ignoreLimitWarning": true,
+
+    // Specifies the python interpreter used by Vscode in the current project.
+    // The path is in a virtual environment and the script is 'Activate.ps1'.
+    "python.pythonPath": "C:/Users/Hp/.virtualenvs/cpd-s3-upload-lab-template-pHUa7cq7",
+
+}
